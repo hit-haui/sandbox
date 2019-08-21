@@ -1,2 +1,3 @@
-# sandbox
-It's place for demonstration and HITer practice, you should not put any sensitive data here.
+# Sandbox
+
+It's repository for test and play with GitHub
